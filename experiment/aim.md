@@ -4,5 +4,6 @@ Well, as has been explained in the following video using sucrose solution as an 
 
 When a plane polarised wave passes through an optically active medium some times its state of polarisation also gets affected along with its plane of polarisation and it comes out from the medium as an elliptically polarised light. This phenomena is known as Circular Dichroism.
 
+ 
 
 
