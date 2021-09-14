@@ -16,28 +16,7 @@ These two aspects together give rise to the phenomena called Optical Rotation, r
 
 In experiment 1 we have seen and the Optical Rotation of a light wave (which is an example of EM wave) when it passes through an optically active medium like sugar solution. There we have measured the specific rotation [α]Tλ of the light wave for different concentrations of medium at a fixed wave length of incident light λ~589nm(Na D-line)and fixed temperature T. In the this experiment we are going to observe how the specific rotation changes with wave length of incident light.  
 
-**Dependence of specific rotation on the wavelength: Optical Rotatory Dispersion**  
-
-In an isotropic medium the properties of the medium are the same in all directions. But in an anisotropic medium the properties become directionally dependent. Anisotropic materials may have different indices of refraction associated with different crystallographic directions. A common situation is that, there are two distinct indices of refraction, and they are called [birefringent](https://en.wikipedia.org/wiki/Birefringence) materials. In case of [optically active](https://en.wikipedia.org/wiki/Optical_rotation) chilral molecules, they have different refractive indices for different circularly polarised components of a plane polarised wave(nL ≠ nR). That means, once the plane polarised wave enters the medium speed of its right circular part and left circular part will be different(cL ≠ cR). This property is known as circular birefringence.  
-
-These two aspects together give rise to the phenomena called [Optical Rotation](https://en.wikipedia.org/wiki/Optical_rotation), rotation of plane of polarisation of a plane polarised wave after it passes through an optically active medium.  
-
-In experiment 1 we have seen and the Optical Rotation of a light wave (which is an example of EM wave) when it passes through an optically active medium like sugar solution. There we have measured the specific rotation [α]Tλ of the light wave for different concentrations of medium at a fixed wave length of incident light λ~589nm([Na D-line](https://en.wikipedia.org/wiki/D_Line#Atomic_Spectral_Lines))and fixed temperature T. In the this experiment we are going to observe how the specific rotation changes with wave length of incident light.  
-
-The following figure describes this.  
-
-<img src="images/fig1.jpg">    
-
-But the superposition of these two oppositely circularly polarised wave will still generate a plane polarised wave with its plane of polarisation rotated to an angle α',as described by the following figure.From the concepts of geometry it may be shown that the angle of rotation α' is half of the phase shift δ.[*]
-
-<img src="images/fig2_2.gif">	      
-
-Now we will see how this angle of rotation depends on the wave length λ of the incident light. To understand the dependence let us first write down the electric vectors of a right circularly polarised and a left circularly polarised wave propagating in the same direction (z) as follows  
-
-ER(z)= Eo/2 cosω(t - z/VR)  
-EL(z)= Eo/2 cosω(t - z/VL)  
-
-Here, Eo = the magnitude  
+**Dependence of specific rotation on the wavelength: Optical Rotatory Dispersion**    
 
 A wave can be characterized by its amplitude and phase. Amplitude of a wave is the maximum displacement of the particles of the medium from its equilibrium position. Whereas phase of a wave is the definition of a point in a waveform. Interaction of the wave with a material effects its velocity and magnitude and this may in turn cause a change in these two characters. If the material is transparent then no change takes place in phase. But in the case of an anisotropic medium there may be difference in velocity of different components of the wave (which causes change in phase). If the medium has absorptive property, then change in amplitude may take place.  
 
