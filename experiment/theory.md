@@ -4,7 +4,7 @@ In experiment:1 we have talked about the phenomenon of polarisation of electroma
 
 A plane polarised wave is a composition of a left and a right circularly polarised waves propagating in phase. It is visually described by the following animation. Here the green and the red curve shows propagation of right and left circularly polarised wave respectively. And superposition of them is the blue curve which is a plane polarised wave.  
 
-[image1](images/p6.gif)  
+<img src="images/p6.gif">  
 
 Whenever a electromagnetic wave enters a medium its velocity gets reduced. The ratio of its velocity in vacuum to its velocity in the medium is known as refractive index and is represented by, n = c0 / v where c0 is the velocity of the wave in vacuum and v is the velocity of the wave in the medium  
 
@@ -38,11 +38,11 @@ The electric vector of a EM wave is always perpendicular to the direction of its
 
 The following figure describes this.  
 
-[image2](images/fig1.jpg)    
+<img src="images/fig1.jpg">    
 
 But the superposition of these two oppositely circularly polarised wave will still generate a plane polarised wave with its plane of polarisation rotated to an angle α',as described by the following figure.From the concepts of geometry it may be shown that the angle of rotation α' is half of the phase shift δ.[*]
 
-    	  [image3](images/fig2_2.gif)	      
+    	  <img src="images/fig2_2.gif">	      
 
 Now we will see how this angle of rotation depends on the wave length λ of the incident light. To understand the dependence let us first write down the electric vectors of a right circularly polarised and a left circularly polarised wave propagating in the same direction (z) as follows  
 
@@ -106,7 +106,7 @@ A plot of [α]Tλ or [M]Tλwith wavelength λ is known as ORD spectra. From an O
 
 When an EM wave passes through a medium, the energy of its photon may be taken up by the electrons of the atoms of the medium. This is called absorption. As a result the wave loses its energy and its amplitude gets reduced. This is called attenuation of a wave. Absorption may occur for any type of polarised wave. The following figures exhibit how a linearly polarised wave and a circularly polarised wave are attenuated by an absorptive medium.  
 
-   	[image4](images/p7.gif) [image5](images/p8.gif)  
+   	<img src="images/p7.gif"> <img src="images/p8.gif">  
 	
 Absorption of plane polarised light  	Absorption of circularly polarised light
 
@@ -175,7 +175,7 @@ Now let us discuss the results of circular dichroism on a plane polarised light.
 
 Figure demonstrating the concept of elliptical polarization of light and CD  
 
-         [image5](images/p11v.gif)		     
+         <img src="images/p11v.gif">		     
 
 We can study the effects of circular dichroism as a difference between molar extinction coefficients (∆ε = ε<sub>R</sub> - ε<sub>L</sub>) of LCPL and RCPL.  
 
