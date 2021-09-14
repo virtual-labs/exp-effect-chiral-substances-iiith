@@ -10,14 +10,6 @@ Whenever a electromagnetic wave enters a medium its velocity gets reduced. The r
 
 **Anisotropic Medium And Speed of Light**  
 
-In experiment:1 we have talked about the phenomenon of [polarisation](https://en.wikipedia.org/wiki/Polarization_(waves)) of electromagnetic waves. We have tried to emphasize on two aspects of a plane polarised or [linearly polarised](https://en.wikipedia.org/wiki/Linear_polarization) wave.  
-
-A plane polarised wave is a composition of a left and a right [circularly polarised waves](https://en.wikipedia.org/wiki/Circular_polarization) propagating in phase. It is visually described by the following animation. Here the green and the red curve shows propagation of right and left circularly polarised wave respectively. And superposition of them is the blue curve which is a plane polarised wave.  
- 
-<img src="images/p6.gif">
-
-Whenever a electromagnetic wave enters a medium its velocity gets reduced. The ratio of its velocity in vacuum to its velocity in the medium is known as refractive index and is represented by, n = c0 / v where c0 is the velocity of the wave in vacuum and v is the velocity of the wave in the medium  
-
 In an isotropic medium the properties of the medium are the same in all directions. But in an anisotropic medium the properties become directionally dependent. Anisotropic materials may have different indices of refraction associated with different crystallographic directions. A common situation is that, there are two distinct indices of refraction, and they are called birefringent materials. In case of optically active chilral molecules, they have different refractive indices for different circularly polarised components of a plane polarised wave(nL ≠ nR). That means, once the plane polarised wave enters the medium speed of its right circular part and left circular part will be different(cL ≠ cR). This property is known as circular birefringence.  
 
 These two aspects together give rise to the phenomena called Optical Rotation, rotation of plane of polarisation of a plane polarised wave after it passes through an optically active medium.  
@@ -31,10 +23,6 @@ In an isotropic medium the properties of the medium are the same in all directio
 These two aspects together give rise to the phenomena called [Optical Rotation](https://en.wikipedia.org/wiki/Optical_rotation), rotation of plane of polarisation of a plane polarised wave after it passes through an optically active medium.  
 
 In experiment 1 we have seen and the Optical Rotation of a light wave (which is an example of EM wave) when it passes through an optically active medium like sugar solution. There we have measured the specific rotation [α]Tλ of the light wave for different concentrations of medium at a fixed wave length of incident light λ~589nm([Na D-line](https://en.wikipedia.org/wiki/D_Line#Atomic_Spectral_Lines))and fixed temperature T. In the this experiment we are going to observe how the specific rotation changes with wave length of incident light.  
-
-A wave can be characterized by its amplitude and phase. Amplitude of a wave is the maximum displacement of the particles of the medium from its equilibrium position. Whereas phase of a wave is the definition of a point in a waveform. Interaction of the wave with a material effects its velocity and magnitude and this may in turn cause a change in these two characters. If the material is transparent then no change takes place in phase. But in the case of an anisotropic medium there may be difference in velocity of different components of the wave (which causes change in phase). If the medium has absorptive property, then change in amplitude may take place.  
-
-The electric vector of a EM wave is always perpendicular to the direction of its propagation. For a plane polarised wave the electric vector of its Left circular part (EL) and the electric vector of its Right circular part (ER) make equal angles with the plane of polarization (αL and αR) ie they are in phase. As we have discussed, after entering an optically active medium velocities of the two components of a plane polarised wave (vL and vR) differs from each other. As a result the angles that EL and ER make with the initial plane of polarisation, no longer remains the same i.e. αL ≠ αR. This will give rise to a phase shift between the two components of a plane polarised wave ,δ = αL – αR .  
 
 The following figure describes this.  
 
@@ -74,44 +62,6 @@ z = distance traveled
 v = velocity in the medium of the wave  
 
 At any instant, the resultant of E<sub>R</sub> and E<sub>L</sub> (i.e. E<sub>R</sub> + E<sub>L</sub>) will produce a plane polarised wave. We will see how much phase shift is generated when a wave travels a distance, say d, through an optically active medium. For that we can look at the equations of waves at z = 0 and at z = d.  
-
-At any instant, the resultant of ER and EL (i.e. ER + EL) will produce a plane polarised wave. We will see how much phase shift is generated when a wave travels a distance, say d, through an optically active medium. For that we can look at the equations of waves at z = 0 and at z = d.  
-  
-ER(o)= Eo/2 cosω t  
-EL(o)= Eo/2 cosω t  
-
-ER(d)= Eo/2 cosω(t - d/VR)  
-EL(d)= Eo/2 cosω(t - d/VL)  
-
-Applying trigonometric laws we can show that the phase difference between ER(0)+EL(0) and ER(d)+EL(d) is given by  
-
-δ=ω .d (1/VR - 1/VL)=ω .d/c (nL - nR)  
-
-Now as we know, velocity of any EM wave in any medium = (wave length of wave in the mediun) X (frequency in that medium) and angular frequency = 2πX frequency of wave. So,  
-
-δ=2π/λ(nL - nR)d  
-
-But α'= δ /2. So we can have angle of rotation directly as a function of wave length as,  
-
-α '= δ/2= π/λ(nL - nR)d  
-
-So with change in the wavelength of a light, its optical rotation will also change for the same medium. This phenomena is known as Optical Rotatory Dispersion.  
-
-In practical purpose, to study ORD one usually looks at two parameters – specific rotation [α]Tλ and molecular rotation [M]Tλ. They are defined as follows.  
-
-A plot of [α]Tλ or [M]Tλwith wavelength λ is known as ORD spectra. From an ORD spectra of an unknown material we can have an understanding of the optical properties of the material.  
-
-
-**Absorption and Extinction Coefficient- A Recap**  
-
-When an EM wave passes through a medium, the energy of its photon may be taken up by the electrons of the atoms of the medium. This is called absorption. As a result the wave loses its energy and its amplitude gets reduced. This is called attenuation of a wave. Absorption may occur for any type of polarised wave. The following figures exhibit how a linearly polarised wave and a circularly polarised wave are attenuated by an absorptive medium.  
-
-<img src="images/p7.gif"> <img src="images/p8.gif">  
-	
-Absorption of plane polarised light  	Absorption of circularly polarised light
-
-
-The ratio of radiant power transmitted (P) by a sample to the radiant power incident (P0) on the sample is called the transmittance, T: T = P/P0
 
 E<sub>R</sub>(o)= E<sub>o</sub>/2 cosω t  
 E<sub>L</sub>(o)= E<sub>o</sub>/2 cosω t  
@@ -168,14 +118,6 @@ Following Beer's law if absorbance of LCPL A<sub>L</sub> is different from absor
 A<sub>R</sub> ≠A<sub>L</sub>  
 i.e. ε<sub>R</sub>cL ≠ε<sub>L</sub>cL  
 i.e. ε<sub>R</sub> ≠ ε<sub>L</sub>  
-
-We can study the effects of circular dichroism as a difference between molar extinction coefficients (∆ε = εR - εL) of LCPL and RCPL.  
-
-Now let us discuss the results of circular dichroism on a plane polarised light. So if a plane polarised light enters a a circular dichroic substance its two circular components undergo through separate absorptive effect of the medium. So the resultant wave will no longer be a linearly polarized wave i.e. the resulting field vector does not oscillate along a straight line but it rotates along an ellipsoid path. Such a light wave is called an elliptically polarized light. The direction of rotation of the elliptically polarized light (or, more exactly, its field vector) is determined by the circular component that remains stronger after traversing the material  
-
-Figure demonstrating the concept of elliptical polarization of light and CD  
-
-<img src="images/p11v.gif">		     
 
 We can study the effects of circular dichroism as a difference between molar extinction coefficients (∆ε = ε<sub>R</sub> - ε<sub>L</sub>) of LCPL and RCPL.  
 
