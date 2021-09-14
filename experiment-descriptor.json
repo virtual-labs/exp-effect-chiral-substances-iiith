@@ -13,6 +13,7 @@
       "unit-type": "task",
       "content-type": "text"
     },
+    {
       "target": "objective.html",
       "source": "objective.md",
       "label": "Objective",
