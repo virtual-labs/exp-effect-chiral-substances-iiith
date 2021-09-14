@@ -42,7 +42,7 @@ The following figure describes this.
 
 But the superposition of these two oppositely circularly polarised wave will still generate a plane polarised wave with its plane of polarisation rotated to an angle α',as described by the following figure.From the concepts of geometry it may be shown that the angle of rotation α' is half of the phase shift δ.[*]
 
-    	  <img src="images/fig2_2.gif">	      
+<img src="images/fig2_2.gif">	      
 
 Now we will see how this angle of rotation depends on the wave length λ of the incident light. To understand the dependence let us first write down the electric vectors of a right circularly polarised and a left circularly polarised wave propagating in the same direction (z) as follows  
 
@@ -106,7 +106,7 @@ A plot of [α]Tλ or [M]Tλwith wavelength λ is known as ORD spectra. From an O
 
 When an EM wave passes through a medium, the energy of its photon may be taken up by the electrons of the atoms of the medium. This is called absorption. As a result the wave loses its energy and its amplitude gets reduced. This is called attenuation of a wave. Absorption may occur for any type of polarised wave. The following figures exhibit how a linearly polarised wave and a circularly polarised wave are attenuated by an absorptive medium.  
 
-   	<img src="images/p7.gif"> <img src="images/p8.gif">  
+<img src="images/p7.gif"> <img src="images/p8.gif">  
 	
 Absorption of plane polarised light  	Absorption of circularly polarised light
 
@@ -175,7 +175,7 @@ Now let us discuss the results of circular dichroism on a plane polarised light.
 
 Figure demonstrating the concept of elliptical polarization of light and CD  
 
-         <img src="images/p11v.gif">		     
+<img src="images/p11v.gif">		     
 
 We can study the effects of circular dichroism as a difference between molar extinction coefficients (∆ε = ε<sub>R</sub> - ε<sub>L</sub>) of LCPL and RCPL.  
 
