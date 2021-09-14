@@ -14,8 +14,20 @@
       "content-type": "text"
     },
     {
+<<<<<<< HEAD
       "target": "pretest.html",
       "source": "pretest.json",
+=======
+      "target": "objective.html",
+      "source": "objective.md",
+      "label": "Objective",
+      "unit-type": "task",
+      "content-type": "text"
+    },
+    {
+      "target": "pretest.html",
+      "source": "pretest.md",
+>>>>>>> 888de1bae3a0578945a143731b52bbf33bef0029
       "label": "Pretest",
       "unit-type": "task",
       "content-type": "assesment"
@@ -33,6 +45,16 @@
       "label": "Simulation",
       "unit-type": "task",
       "content-type": "simulation"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "target": "posttest.html",
+      "source": "posttest.md",
+      "label": "Posttest",
+      "unit-type": "task",
+      "content-type": "assesment"
+>>>>>>> 888de1bae3a0578945a143731b52bbf33bef0029
     }
   ]
 }
