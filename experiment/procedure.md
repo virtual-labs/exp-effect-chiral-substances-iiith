@@ -1,7 +1,7 @@
 The experiment is devided inte two parts:  
 
-   - Study of dispersive effect  
-   - Study of absorptive effect   
+ 1. Study of dispersive effect  
+ 2. Study of absorptive effect   
 
 **Study of dispersive effect:**  
 

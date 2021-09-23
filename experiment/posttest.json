@@ -1,13 +1,11 @@
 [
         {
-            "question": "4. How does the optical activity depend on the state of the substance? ", 
+            "question": "1. How does the optical activity depend on the state of the substance? ", 
             "answers": {
                 "a": "If the compound is present in (+) form, it rotates plane polarized light in anticlockwise direction and if it is present in (-) form, it rotates plane polarized light in clockwise direction with equal magnitude.", 
                 "b": "If the compound is present in (+) form it rotates plane polarized light in clockwise direction and if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with different magnitude. ", 
 		"c": "If the compound is present in (+) form it rotates plane polarized light in clockwise direction and if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with same magnitude.", 
-                "d": "Both rotates the plane polarized light in same direction with equal magnitude. " 
-              
-		
+                "d": "Both rotates the plane polarized light in same direction with equal magnitude. " 		
             },
             "correctAnswer": "c"
         },
@@ -19,8 +17,7 @@
                 "a": "+20.1o.", 
                 "b": "+26.1o. ",
 		"c": "+23.1o.", 
-                "d": "+29.1o. "
-                
+                "d": "+29.1o. "                
             },
             "correctAnswer": "c"
         },
