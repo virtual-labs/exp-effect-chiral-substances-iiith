@@ -1,37 +1,35 @@
 [
         {
-            "question": "1. How does the optical activity depend on the state of the substance? ", 
+            "question": "1. In an anisotropic medium, for a larger difference of RI of RCPL and LCPL we will observe a ________ value of optical rotation.", 
             "answers": {
-                "a": "If the compound is present in (+) form, it rotates plane polarized light in anticlockwise direction and if it is present in (-) form, it rotates plane polarized light in clockwise direction with equal magnitude.", 
-                "b": "If the compound is present in (+) form it rotates plane polarized light in clockwise direction and if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with different magnitude. ", 
-		"c": "If the compound is present in (+) form it rotates plane polarized light in clockwise direction and if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with same magnitude.", 
-                "d": "Both rotates the plane polarized light in same direction with equal magnitude. " 		
+                "a": "larger", 
+                "b": "smaller ", 
+		"c": "equal", 
+                "d": "can not say" 		
             },
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
-
 
         {
-            "question": "2. Given that (R)-2-bromobutane has a specific rotation of -23.1o ,what is the specific rotation of (S)-2-bromobutane?", 
+            "question": "2. For the plane polarised light with higher wave length the magnitude of optical rotation will be __________. ", 
             "answers": {
-                "a": "+20.1o.", 
-                "b": "+26.1o. ",
-		"c": "+23.1o.", 
-                "d": "+29.1o. "                
+                "a": "higher", 
+                "b": "lower",
+		"c": "same", 
+                "d": "can not say"                
             },
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
 
-
        {
-            "question": "3. Which isomer is dominant in a mixture of (R)- and (S)-2-bromobutane whose specific rotation was found to be -9.2o ?", 
+            "question": "3. Due to circular dichroism ___________ of a plane polarised changes.", 
             "answers": {
-                "a": "Both R and S enantiomers are found in equal proportions.", 
-                "b": "The negative sign indicates that the R enantiomer is the dominant one. ", 
-		"c": "The negative sign indicates that the S enantiomer is the dominant one.", 
-                "d": "None of the above options are correct. "    
+                "a": "wave length", 
+                "b": "palne of polarisation", 
+		"c": "state of polarisation", 
+                "d": "none of these"    
             },
-            "correctAnswer": "b" 
+            "correctAnswer": "c" 
        }   			  
 			 
 ]
