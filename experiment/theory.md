@@ -1,20 +1,20 @@
 **Recap of Experiment 1**
 
-In experiment:1 we have talked about the phenomenon of polarisation of electromagnetic waves. We have tried to emphasize on two aspects of a plane polarised or linearly polarised wave.  
+In experiment:1 we have talked about the phenomenon of [polarisation](http://en.wikipedia.org/wiki/Polarization_(waves)) of electromagnetic waves. We have tried to emphasize on two aspects of a plane polarised or [linearly polarised](http://en.wikipedia.org/wiki/Linear_polarization) wave.  
 
-A plane polarised wave is a composition of a left and a right circularly polarised waves propagating in phase. It is visually described by the following animation. Here the green and the red curve shows propagation of right and left circularly polarised wave respectively. And superposition of them is the blue curve which is a plane polarised wave.  
+A plane polarised wave is a composition of a left and a right [circularly polarised waves](http://en.wikipedia.org/wiki/Circular_polarization) propagating in phase. It is visually described by the following animation. Here the green and the red curve shows propagation of right and left circularly polarised wave respectively. And superposition of them is the blue curve which is a plane polarised wave.  
 
 <img src="images/p6.gif">  
 
-Whenever a electromagnetic wave enters a medium its velocity gets reduced. The ratio of its velocity in vacuum to its velocity in the medium is known as refractive index and is represented by, n = c0 / v where c0 is the velocity of the wave in vacuum and v is the velocity of the wave in the medium  
+Whenever a electromagnetic wave enters a medium its velocity gets reduced. The ratio of its velocity in vacuum to its velocity in the medium is known as [refractive index](http://en.wikipedia.org/wiki/Refractive_index) and is represented by, n = c0 / v where c0 is the velocity of the wave in vacuum and v is the velocity of the wave in the medium  
 
 **Anisotropic Medium And Speed of Light**  
 
-In an isotropic medium the properties of the medium are the same in all directions. But in an anisotropic medium the properties become directionally dependent. Anisotropic materials may have different indices of refraction associated with different crystallographic directions. A common situation is that, there are two distinct indices of refraction, and they are called birefringent materials. In case of optically active chilral molecules, they have different refractive indices for different circularly polarised components of a plane polarised wave(nL ≠ nR). That means, once the plane polarised wave enters the medium speed of its right circular part and left circular part will be different(cL ≠ cR). This property is known as circular birefringence.  
+In an isotropic medium the properties of the medium are the same in all directions. But in an anisotropic medium the properties become directionally dependent. Anisotropic materials may have different indices of refraction associated with different crystallographic directions. A common situation is that, there are two distinct indices of refraction, and they are called [birefringent](http://en.wikipedia.org/wiki/Birefringence) materials. In case of [optically active](http://en.wikipedia.org/wiki/Optical_activity) chilral molecules, they have different refractive indices for different circularly polarised components of a plane polarised wave(nL ≠ nR). That means, once the plane polarised wave enters the medium speed of its right circular part and left circular part will be different(cL ≠ cR). This property is known as circular birefringence.  
 
-These two aspects together give rise to the phenomena called Optical Rotation, rotation of plane of polarisation of a plane polarised wave after it passes through an optically active medium.  
+These two aspects together give rise to the phenomena called [Optical Rotation](http://en.wikipedia.org/wiki/Optical_rotation), rotation of plane of polarisation of a plane polarised wave after it passes through an optically active medium.  
 
-In experiment 1 we have seen and the Optical Rotation of a light wave (which is an example of EM wave) when it passes through an optically active medium like sugar solution. There we have measured the specific rotation [α]Tλ of the light wave for different concentrations of medium at a fixed wave length of incident light λ~589nm(Na D-line)and fixed temperature T. In the this experiment we are going to observe how the specific rotation changes with wave length of incident light.  
+In experiment 1 we have seen and the Optical Rotation of a light wave (which is an example of EM wave) when it passes through an optically active medium like sugar solution. There we have measured the specific rotation [α]Tλ of the light wave for different concentrations of medium at a fixed wave length of incident light λ~589nm([Na D-line](http://en.wikipedia.org/wiki/D-line#Atomic_Spectral_Lines))and fixed temperature T. In the this experiment we are going to observe how the specific rotation changes with wave length of incident light.  
 
 **Dependence of specific rotation on the wavelength: Optical Rotatory Dispersion**    
 
