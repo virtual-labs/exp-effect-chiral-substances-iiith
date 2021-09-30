@@ -1,0 +1,49 @@
+[
+{
+            "question": "1. Superposition of one Right Circularly Polarised Light(RCPL) and one Left Circularly Polarised Light(LCPL) generates a __________ polarised light. ", 
+            "answers": {
+                "a": "Elliptically", 
+                "b": "Plane", 
+		"c": "Right Circularly", 
+                "d": "Left Circularly"
+               	
+            },
+            "correctAnswer": "b" 
+        },
+        {
+            "question": "2. In an anisotropic medium difference in RI of RCPL and LCPL causes ______________ in a plane polarised light.", 
+            "answers": {
+                "a": "circular dichroism",
+                "b": "optical rotation", 
+		"c": "interference", 
+                "d": "scattering"
+        	
+            },
+            "correctAnswer": "b"
+        },			  
+
+         {
+            "question": "3. In an anisotropic medium difference in absorbance of RCPL and LCPL causes ______________ in a plane polarised light.", 
+            "answers": {
+                "a": "circular dichroism",
+                "b": "optical rotation", 
+		"c": "interference", 
+                "d": "scattering"
+		
+            },
+            "correctAnswer": "a" 
+        },
+
+        {
+            "question": "4. If the difference between the RI of RCPL and LCPL is positive in an anisotropic medium, the optical rotation will be _________.", 
+            "answers": {
+                "a": "positive",
+                "b": "negative", 
+		"c": "zero", 
+                "d": "imaginary"
+		
+            },
+            "correctAnswer": "a" 
+        }
+
+]
